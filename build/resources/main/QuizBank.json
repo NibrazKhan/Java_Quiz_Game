@@ -1,0 +1,162 @@
+[
+  {
+    "Option d:": "Testing closure",
+    "Option c:": "Deployment phase",
+    "Option b:": "Requirement Phase",
+    "Option a:": "Testing Phase",
+    "answer": "d",
+    "Question": "Which of the following is not a valid phase of SDLC (Software Development Life Cycle)?"
+  },
+  {
+    "Option d:": "None of the above",
+    "Option c:": "Design based testing",
+    "Option b:": "Error guessing technique",
+    "Option a:": "Structural testing",
+    "answer": "a",
+    "Question": "Which of the following testing is also known as white-box testing?"
+  },
+  {
+    "Option d:": "None of the above",
+    "Option c:": "Black box testing",
+    "Option b:": "White-box testing",
+    "Option a:": "White box and black box testing",
+    "answer": "c",
+    "Question": "Which of the following testing is related to the boundary value analysis?"
+  },
+  {
+    "Option d:": "Test type",
+    "Option c:": "SDLC Model",
+    "Option b:": "Test level",
+    "Option a:": "Test design technique",
+    "answer": "d",
+    "Question": " Functional testing is a ------?"
+  },
+  {
+    "Option d:": "All of the above",
+    "Option c:": "System testing",
+    "Option b:": "Unit testing",
+    "Option a:": "Integration testing",
+    "answer": "d",
+    "Question": "What are the different levels of Testing?"
+  },
+  {
+    "Option d:": "Testing closure",
+    "Option c:": "Test Design",
+    "Option b:": "Requirement Gathering",
+    "Option a:": "Testing Planning",
+    "answer": "b",
+    "Question": "Which of the following is not a part of STLC (Software Testing Life Cycle)?"
+  },
+  {
+    "Option d:": "Test design technique",
+    "Option c:": "Test Level",
+    "Option b:": "Test Execution Level",
+    "Option a:": "Test type",
+    "answer": "b",
+    "Question": "Sanity testing is a ------?"
+  },
+  {
+    "Option d:": "None of the above",
+    "Option c:": "User'sand developer's end",
+    "Option b:": "Developer's end",
+    "Option a:": "User's end",
+    "answer": "b",
+    "Question": "In which environment we can performed the Alpha testing?"
+  },
+  {
+    "Option d:": "Entry and exit criteria",
+    "Option c:": "Incident reports",
+    "Option b:": "Risk",
+    "Option a:": "Schedule",
+    "answer": "c",
+    "Question": "Which of the below is not a part of the Test Plan?"
+  },
+  {
+    "Option d:": "None of the mentioned",
+    "Option c:": "Procedure Errors",
+    "Option b:": "Interface Errors",
+    "Option a:": "Design Errors",
+    "answer": "b",
+    "Question": "What is the key objective of Integration testing?"
+  },
+  {
+    "Option d:": "Grey Box Test Design Technique",
+    "Option c:": "Black Box Test Design Technique",
+    "Option b:": "White Box Test Design Technique",
+    "Option a:": "Experience-based Test Design Technique",
+    "answer": "a",
+    "Question": "Exploratory testing is a -----?"
+  },
+  {
+    "Option d:": "Both option a & c",
+    "Option c:": "When the environment has been modified",
+    "Option b:": "As frequently as possible",
+    "Option a:": "After the software has been modified",
+    "answer": "d",
+    "Question": "What is the best time to perform Regression testing?"
+  },
+  {
+    "Option d:": "All of the above",
+    "Option c:": "The testing team is not good",
+    "Option b:": "Developers are super",
+    "Option a:": "Product is old",
+    "answer": "c",
+    "Question": "Does the customer get a 100% bug-free product?"
+  },
+  {
+    "Option d:": "All of the above",
+    "Option c:": "Grey box testing",
+    "Option b:": "Black box testing",
+    "Option a:": "White-box testing",
+    "answer": "a",
+    "Question": " Cyclomatic complexity is?"
+  },
+  {
+    "Option d:": "Database testing",
+    "Option c:": "Statement testing",
+    "Option b:": "System testing",
+    "Option a:": "Function testing",
+    "answer": "c",
+    "Question": "Which of the following is not part of the Test type?"
+  },
+  {
+    "Option d:": "Test Plan",
+    "Option c:": "Test Case",
+    "Option b:": "Test Summary Report",
+    "Option a:": "Defect Report",
+    "answer": "d",
+    "Question": "Which Test Document is used to define the Exit Criteria of Testing?"
+  },
+  {
+    "Option d:": "How many more test cases need to write?",
+    "Option c:": "Different Tools to perform Regression Testing",
+    "Option b:": "How much regression testing should be done?",
+    "Option a:": "Exit Criteria",
+    "answer": "b",
+    "Question": "Impact analysis helps us to decide which of the following testing?"
+  },
+  {
+    "Option d:": "Combination of all",
+    "Option c:": "Black Box testing",
+    "Option b:": "Grey box testing",
+    "Option a:": "White-box testing",
+    "answer": "c",
+    "Question": "Which testing technique is used for usability testing?"
+  },
+  {
+    "Option d:": "Bottom-up approach",
+    "Option c:": "Functional incrimination",
+    "Option b:": "Top-down approach",
+    "Option a:": "Big bang approach",
+    "answer": "a",
+    "Question": "Which is not the right approach of Incremental testing approach?"
+  },
+  {
+    "Option d:": "None of the above",
+    "Option c:": "User's end",
+    "Option b:": "Developer's end",
+    "Option a:": "User's and developer's end",
+    "answer": "c",
+    "Question": "In which environment we can performed the Beta testing?"
+  }
+]
